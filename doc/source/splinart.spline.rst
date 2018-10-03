@@ -1,19 +1,19 @@
-splinart\.spline package
-========================
+splinart.spline package
+=======================
 
 Submodules
 ----------
 
-splinart\.spline\.spline module
--------------------------------
+splinart.spline.spline module
+-----------------------------
 
 .. automodule:: splinart.spline.spline
     :members:
     :undoc-members:
     :show-inheritance:
 
-splinart\.spline\.splint module
--------------------------------
+splinart.spline.splint module
+-----------------------------
 
 .. automodule:: splinart.spline.splint
     :members:

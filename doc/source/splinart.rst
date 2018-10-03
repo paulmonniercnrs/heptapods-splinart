@@ -12,32 +12,32 @@ Subpackages
 Submodules
 ----------
 
-splinart\.color module
-----------------------
+splinart.color module
+---------------------
 
 .. automodule:: splinart.color
     :members:
     :undoc-members:
     :show-inheritance:
 
-splinart\.compute module
-------------------------
+splinart.compute module
+-----------------------
 
 .. automodule:: splinart.compute
     :members:
     :undoc-members:
     :show-inheritance:
 
-splinart\.draw module
----------------------
+splinart.draw module
+--------------------
 
 .. automodule:: splinart.draw
     :members:
     :undoc-members:
     :show-inheritance:
 
-splinart\.version module
-------------------------
+splinart.version module
+-----------------------
 
 .. automodule:: splinart.version
     :members:

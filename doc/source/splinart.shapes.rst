@@ -1,11 +1,11 @@
-splinart\.shapes package
-========================
+splinart.shapes package
+=======================
 
 Submodules
 ----------
 
-splinart\.shapes\.base module
------------------------------
+splinart.shapes.base module
+---------------------------
 
 .. automodule:: splinart.shapes.base
     :members:
